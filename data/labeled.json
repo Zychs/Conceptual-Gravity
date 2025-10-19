@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "User",
+    "text": "Hi, can you help me summarize my notes?",
+    "inferred_speaker": "user"
+  },
+  {
+    "speaker": "Assistant",
+    "text": "Sure — paste your notes and I'll summarize.",
+    "inferred_speaker": "assistant"
+  },
+  {
+    "text": "Here are my notes: \n- research on embeddings\n- TODO: write test",
+    "inferred_speaker": "user"
+  },
+  {
+    "author": "bot",
+    "content": "I can produce a 3-bullet summary: ...",
+    "inferred_speaker": "assistant"
+  },
+  {
+    "from": "system",
+    "message": "Session started",
+    "inferred_speaker": "system"
+  },
+  {
+    "text": "I think we should focus on the first item.",
+    "inferred_speaker": "user"
+  }
+]

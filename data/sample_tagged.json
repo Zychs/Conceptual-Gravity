@@ -1,0 +1,77 @@
+[
+  {
+    "speaker": "User",
+    "text": "Hi, can you help me summarize my notes?",
+    "silhouette_cluster_id": 0,
+    "silhouette_score": 1.0,
+    "silhouette_keywords": [
+      "summarize",
+      "can",
+      "help",
+      "me",
+      "hi",
+      "notes"
+    ]
+  },
+  {
+    "speaker": "Assistant",
+    "text": "Sure — paste your notes and I'll summarize.",
+    "silhouette_cluster_id": 1,
+    "silhouette_score": 1.0,
+    "silhouette_keywords": [
+      "i'll",
+      "summarize",
+      "sure",
+      "paste",
+      "notes"
+    ]
+  },
+  {
+    "text": "Here are my notes: \n- research on embeddings\n- TODO: write test",
+    "silhouette_cluster_id": 2,
+    "silhouette_score": 1.0,
+    "silhouette_keywords": [
+      "here",
+      "write",
+      "embeddings",
+      "research",
+      "test",
+      "notes",
+      "todo"
+    ]
+  },
+  {
+    "author": "bot",
+    "content": "I can produce a 3-bullet summary: ...",
+    "silhouette_cluster_id": 3,
+    "silhouette_score": 1.0,
+    "silhouette_keywords": [
+      "bullet",
+      "summary",
+      "can",
+      "produce"
+    ]
+  },
+  {
+    "from": "system",
+    "message": "Session started",
+    "silhouette_cluster_id": 4,
+    "silhouette_score": 1.0,
+    "silhouette_keywords": [
+      "session",
+      "started"
+    ]
+  },
+  {
+    "text": "I think we should focus on the first item.",
+    "silhouette_cluster_id": 5,
+    "silhouette_score": 1.0,
+    "silhouette_keywords": [
+      "focus",
+      "first",
+      "should",
+      "think",
+      "item"
+    ]
+  }
+]
